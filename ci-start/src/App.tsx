@@ -53,7 +53,9 @@ const App: React.FC = () => {
             className="form-field"
             required>
           </textarea>
-          <input type="submit" value="Send Message" className="btn"></input>
+          <button type="submit">
+            Sing a song
+          </button>
         </form>
       </section>
     </div>
